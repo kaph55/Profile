@@ -49,7 +49,7 @@ function App() {
           {/* Social Icons */}
           <div className="social-icons">
             <a href="https://www.linkedin.com/in/kavita-phogat-635980335/" target="_blank" rel="noreferrer"><FaLinkedin size={30}/></a>
-            <a href="https://github.com/kaph55" target="_blank" rel="noreferrer"><FaGithub size={30}/></a>              
+            <a href="https://github.com/kaph55/Kavita-Portfolio.git" target="_blank" rel="noreferrer"><FaGithub size={30}/></a>              
             {/* Simply.com Icon */}
             <a href="https://your-simply-com-link.com" target="_blank" rel="noreferrer" title="Simply.com Website">
               <FiGlobe size={30}/></a>
