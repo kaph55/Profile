@@ -7,7 +7,7 @@ import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 import Contact from "./components/Contact";
 import { FaUser, FaProjectDiagram, FaGithub, FaLinkedin } from "react-icons/fa";
-import { FiFileText, FiMail, FiGlobe } from "react-icons/fi";
+import { FiFileText, FiMail } from "react-icons/fi";
 
 function App() {
   const [activeSection, setActiveSection] = useState(null);
@@ -49,10 +49,8 @@ function App() {
           {/* Social Icons */}
           <div className="social-icons">
             <a href="https://www.linkedin.com/in/kavita-phogat-635980335/" target="_blank" rel="noreferrer"><FaLinkedin size={30}/></a>
-            <a href="https://github.com/kaph55/Kavita-Portfolio.git" target="_blank" rel="noreferrer"><FaGithub size={30}/></a>              
-            {/* Simply.com Icon */}
-            <a href="https://your-simply-com-link.com" target="_blank" rel="noreferrer" title="Simply.com Website">
-              <FiGlobe size={30}/></a>
+            <a href="https://github.com/kaph55" target="_blank" rel="noreferrer"><FaGithub size={30}/></a>                           
+            
           </div>
 
         </section>

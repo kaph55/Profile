@@ -5,19 +5,15 @@ function About() {
     <section id="about" style={{ padding: "80px 40px" }}>
       <h2>About Me</h2>
       <p>
-        Hello! I'm Kavita Phogat, a software developer based in Viborg, Denmark.
-        I have experience working with C#, Java, Python, and JavaScript.
+        Hi! I'm Kavita Phogat, a software developer based in Viborg, Denmark. I love building applications and exploring new technologies. I have experience with C#, Java, Python, and JavaScript.
       </p>
 
       <p>
-        I have built applications using React, Blazor, .NET MAUI, MVC, WPF,
-        and REST APIs. I enjoy solving real-world problems through clean
-        and efficient code.
+        I've created projects using React, Blazor, .NET MAUI, MVC, WPF, and REST APIs. Solving real-world problems with clean and efficient code is something I really enjoy.
       </p>
 
       <p>
-        I work with Agile methodologies such as Scrum and Kanban and
-        enjoy collaborating in team environments.
+       I work with Agile methodologies like Scrum and Kanban, and I enjoy collaborating with teams to learn and build great software together.
       </p>
     </section>
   );
